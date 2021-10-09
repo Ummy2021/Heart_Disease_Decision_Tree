@@ -1,8 +1,8 @@
 # Heart_Disease_Decision_Tree
-Data Source:  https://archive.ics.uci.edu/ml/datasets/heart+disease
+Data Source:  https://archive.ics.uci.edu/ml/datasets/heart+disease 
 Attribute Information:
 
-Only 14 attributes used:
+14 attributes used:
 1. #3 (age)
 2. #4 (sex)
 3. #9 (cp)
